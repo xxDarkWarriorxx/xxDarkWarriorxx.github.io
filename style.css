@@ -1,7 +1,7 @@
 body
 {
     background-image: url(green-forest-at-the-gray-mountains.jpg);
-    background-size: contain ;
+    background-size: cover ;
     background-repeat: no-repeat ;
 }
 
